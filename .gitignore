@@ -2,3 +2,4 @@ env/
 .vscode/
 polls/__pycache__/
 mysite/__pycache__/
+polls/migrations/__pycache__/
