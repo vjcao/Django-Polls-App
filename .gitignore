@@ -3,3 +3,4 @@ env/
 polls/__pycache__/
 mysite/__pycache__/
 polls/migrations/__pycache__/
+.DS_Store
